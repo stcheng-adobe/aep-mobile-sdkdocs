@@ -25,7 +25,7 @@ module.exports = {
             {
                 title: 'Mobile SDK',
                 path: '/documentation',
-            }
+            },
             {
                 title: 'Getting Started',
                 path: '/getting-started',
