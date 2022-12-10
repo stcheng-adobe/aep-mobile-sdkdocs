@@ -1,4 +1,8 @@
+<Hero slots="heading, text"/>
+
 # Overview
+
+Learn how to setup mobile SDK
 
 The Adobe Experience Platform Mobile SDKs support interaction with Adobe Experience Cloud solutions and services through one or both of the following methods:
 

@@ -5,7 +5,13 @@ description: Configuring the Adobe Analytics extension in the Data Collection UI
 
 import Tabs from './tabs/index.md'
 
+<Hero slots="image, heading, text" background="rgb(64, 34, 138)"/>
+
+![Hero image](./assets/images/hero-illustration.png)
+
 # Adobe Analytics
+
+Adobe Analytics is an industry-leading solution that empowers you to understand your customers as people and steer your business with customer intelligence.
 
 ## Configure the Analytics extension in the Data Collection UI
 

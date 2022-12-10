@@ -4,6 +4,7 @@ description: This is the overview page of Mobile SDK
 contributors:
   - https://github.com/icaraps 
 ---
+<Hero slots="heading, text"/>
 
 # Mobile SDK documentation
 

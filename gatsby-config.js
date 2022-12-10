@@ -33,6 +33,51 @@ module.exports = {
             {
                 title: 'Mobile Foundation Extensions',
                 path: '/mobile-foundation-extensions',
+            },
+            {
+                title: 'Experience Cloud extensions',
+                menu: [
+                    {
+                         title: 'Overview',
+                         path: '/experience-cloud-extensions'
+                    },
+                    {
+                        title: 'Adobe Analytics',
+                        path: '/experience-cloud-extensions/adobe-analytics/index.md',
+                    },
+                    {
+                        title: 'Adobe Analytics - Mobile Services',
+                        path: '/experience-cloud-extensions/adobe-analytics-mobile-services/index.md',
+                    },
+                    {
+                        title: 'Adobe Media Analytics',
+                        path: '/experience-cloud-extensions/adobe-media-analytics/index.md',
+                    },
+                    {
+                        title: 'Adobe Audience Manager',
+                        path: '/experience-cloud-extensions/adobe-audience-manager/index.md',
+                    },
+                    {
+                        title: 'Adobe Campaign Classic',
+                        path: '/experience-cloud-extensions/adobe-campaign-classic/index.md',
+                    },
+                    {
+                        title: 'Adobe Campaign Standard',
+                        path: '/experience-cloud-extensions/adobe-campaign-standard/index.md',
+                    },
+                    {
+                        title: 'Adobe Journey Optimizer',
+                        path: '/experience-cloud-extensions/adobe-journey-optimizer/index.md',
+                    },
+                    {
+                        title: 'Adobe Journey Optimizer Decisioning',
+                        path: '/experience-cloud-extensions/adobe-journey-optimizer-decisioning/index.md',
+                    },
+                    {
+                        title: 'Adobe Target',
+                        path: '/experience-cloud-extensions/adobe-target/index.md',
+                    },
+                ]
             }
         ],
         subPages: [
@@ -410,279 +455,279 @@ module.exports = {
                     },
 
 
-            {
-                title: "Adobe Experience Platform Location Service",
-                path: "/mobile-foundation-extensions/places",
-                pages: [
                     {
-                        title: "Overview",
-                        path: "/mobile-foundation-extensions/places"
+                        title: "Adobe Experience Platform Location Service",
+                        path: "/mobile-foundation-extensions/places",
+                        pages: [
+                            {
+                                title: "Overview",
+                                path: "/mobile-foundation-extensions/places"
+                            },
+                            {
+                                title: "API reference",
+                                path: "/mobile-foundation-extensions/places/api-reference.md"
+                            },
+                            {
+                                title: "Migration",
+                                path: "/mobile-foundation-extensions/places/migration.md"
+                            }
+                        ]
                     },
                     {
-                        title: "API reference",
-                        path: "/mobile-foundation-extensions/places/api-reference.md"
-                    },
-                    {
-                        title: "Migration",
-                        path: "/mobile-foundation-extensions/places/migration.md"
+                        title: "Profile",
+                        path: "/mobile-foundation-extensions/profile",
+                        pages: [
+                            {
+                                title: "Overview",
+                                path: "/mobile-foundation-extensions/profile"
+                            },
+                            {
+                                title: "Migration",
+                                path: "/mobile-foundation-extensions/profile/migration"
+                            },
+                            {
+                                title: "API reference",
+                                path: "/mobile-foundation-extensions/profile/api-reference"
+                            },
+                            {
+                                title: "Event reference",
+                                path: "/mobile-foundation-extensions/profile/event-reference"
+                            },
+                            {
+                                title: "Release notes",
+                                path: "/mobile-foundation-extensions/profile/release-notes"
+                            }
+                        ]
                     }
-                ]
-            },
-            {
-                title: "Profile",
-                path: "/mobile-foundation-extensions/profile",
-                pages: [
-                    {
-                        title: "Overview",
-                        path: "/mobile-foundation-extensions/profile"
-                    },
-                    {
-                        title: "Migration",
-                        path: "/mobile-foundation-extensions/profile/migration"
-                    },
-                    {
-                        title: "API reference",
-                        path: "/mobile-foundation-extensions/profile/api-reference"
-                    },
-                    {
-                        title: "Event reference",
-                        path: "/mobile-foundation-extensions/profile/event-reference"
-                    },
-                    {
-                        title: "Release notes",
-                        path: "/mobile-foundation-extensions/profile/release-notes"
-                    }
-                ]
-            }
                 ]
             },
             {
                 title: "Experience Cloud extensions",
-                path: "/documentation/experience-cloud-extensions",
+                path: "/experience-cloud-extensions",
                 pages: [
                     {
                         title: "Overview",
-                        path: "/documentation/experience-cloud-extensions"
+                        path: "/experience-cloud-extensions"
                     },
                     {
                         title: 'Adobe Analytics',
-                        path: '/documentation/adobe-analytics/',
+                        path: '/experience-cloud-extensions/adobe-analytics/',
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-analytics"
+                                path: "/experience-cloud-extensions/adobe-analytics"
                             },
                             {
                                 title: "API reference",
-                                path: "/documentation/adobe-analytics/api-reference/"
+                                path: "/experience-cloud-extensions/adobe-analytics/api-reference/"
                             },
                             {
                                 title: 'Event reference',
-                                path: '/documentation/adobe-analytics/event-reference/'
+                                path: '/experience-cloud-extensions/adobe-analytics/event-reference/'
                             },
                             {
                                 title: "Migration",
-                                path: "/documentation/adobe-analytics/migration/"
+                                path: "/experience-cloud-extensions/adobe-analytics/migration/"
                             },
                             {
                                 title: "Product variable",
-                                path: "/documentation/adobe-analytics/product-variable"
+                                path: "/experience-cloud-extensions/adobe-analytics/product-variable"
                             },
                             {
                                 title: "Frequently asked questions",
-                                path: "/documentation/adobe-analytics/faq/"
+                                path: "/experience-cloud-extensions/adobe-analytics/faq/"
                             },
                             {
                                 title: 'Release notes',
-                                path: '/documentation/adobe-analytics/release-notes/'
+                                path: '/experience-cloud-extensions/adobe-analytics/release-notes/'
                             }
                         ]
                     },
                     {
                         title: "Adobe Analytics - Mobile Services",
-                        path: "/documentation/adobe-analytics-mobile-services",
+                        path: "/experience-cloud-extensions/adobe-analytics-mobile-services",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-analytics-mobile-services"
+                                path: "/experience-cloud-extensions/adobe-analytics-mobile-services"
                             },
                             {
                                 title: "API reference",
-                                path: "/documentation/adobe-analytics-mobile-services/api-reference/"
+                                path: "/experience-cloud-extensions/adobe-analytics-mobile-services/api-reference/"
                             },
                             {
                                 title: "Migration",
-                                path: "/documentation/adobe-analytics-mobile-services/migration/"
+                                path: "/experience-cloud-extensions/adobe-analytics-mobile-services/migration/"
                             },
                             {
                                 title: "Release notes",
-                                path: "/documentation/adobe-analytics-mobile-services/release-notes/"
+                                path: "/experience-cloud-extensions/adobe-analytics-mobile-services/release-notes/"
                             }
                         ]
                     },
                     {
                         title: "Adobe Media Analytics",
-                        path: "/documentation/adobe-media-analytics",
+                        path: "/experience-cloud-extensions/adobe-media-analytics",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-media-analytics"
+                                path: "/experience-cloud-extensions/adobe-media-analytics"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-media-analytics/api-reference"
+                                path: "/experience-cloud-extensions/adobe-media-analytics/api-reference"
                             },
                             {
                                 title: "Migration",
-                                path: "documentation/adobe-media-analytics/migration"
+                                path: "/experience-cloud-extensions/adobe-media-analytics/migration"
                             },
                             {
                                 title: "Release notes",
-                                path: "documentation/adobe-media-analytics/release-notes"
+                                path: "/experience-cloud-extensions/adobe-media-analytics/release-notes"
                             }
                         ]
                     },
                     {
                         title: "Adobe Audience Manager",
-                        path: "/documentation/adobe-audience-manager/",
+                        path: "/experience-cloud-extensions/adobe-audience-manager/",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-audience-manager/"
+                                path: "/experience-cloud-extensions/adobe-audience-manager/"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-audience-manager/api-reference"
+                                path: "/experience-cloud-extensions/adobe-audience-manager/api-reference"
                             },
                             {
                                 title: "Event reference",
-                                path: "documentation/adobe-audience-manager/event-reference"
+                                path: "/experience-cloud-extensions/adobe-audience-manager/event-reference"
                             },
                             {
                                 title: "Migration",
-                                path: "documentation/adobe-audience-manager/migration"
+                                path: "/experience-cloud-extensions/adobe-audience-manager/migration"
                             },
                             {
                                 title: "Release notes",
-                                path: "/documentation/adobe-audience-manager/release-notes"
+                                path: "/experience-cloud-extensions/adobe-audience-manager/release-notes"
                             }
                         ]
                     },
                     {
                         title: "Adobe Campaign Classic",
-                        path: "/documentation/adobe-campaign-classic",
+                        path: "/experience-cloud-extensions/adobe-campaign-classic",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-campaign-classic"
+                                path: "/experience-cloud-extensions/adobe-campaign-classic"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-campaign-classic/api-reference"
+                                path: "/experience-cloud-extensions/adobe-campaign-classic/api-reference"
                             },
                             {
                                 title: "Event reference",
-                                path: "documentation/adobe-campaign-classic/event-reference"
+                                path: "/experience-cloud-extensions/adobe-campaign-classic/event-reference"
                             },
                             {
                                 title: "Migration",
-                                path: "documentation/adobe-campaign-classic/migration"
+                                path: "/experience-cloud-extensions/adobe-campaign-classic/migration"
                             },
                             {
                                 title: "Release notes",
-                                path: "documentation/adobe-campaign-classic/release-notes"
+                                path: "/experience-cloud-extensions/adobe-campaign-classic/release-notes"
                             }
                         ]
                     },
                     {
                         title: "Adobe Campaign Standard",
-                        path: "/documentation/adobe-campaign-standard",
+                        path: "/experience-cloud-extensions/adobe-campaign-standard",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-campaign-standard"
+                                path: "/experience-cloud-extensions/adobe-campaign-standard"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-campaign-standard/api-reference"
+                                path: "/experience-cloud-extensions/adobe-campaign-standard/api-reference"
                             },
                             {
                                 title: "Event reference",
-                                path: "documentation/adobe-campaign-standard/event-reference"
+                                path: "/experience-cloud-extensions/adobe-campaign-standard/event-reference"
                             },
                             {
                                 title: "Migration",
-                                path: "documentation/adobe-campaign-standard/migration"
+                                path: "/experience-cloud-extensions/adobe-campaign-standard/migration"
                             },
                             {
                                 title: "Release notes",
-                                path: "documentation/adobe-campaign-standard/release-notes"
+                                path: "/experience-cloud-extensions/adobe-campaign-standard/release-notes"
                             }
                         ]
                     },
                     {
                         title: "Adobe Journey Optimizer",
-                        path: "/documentation/adobe-journey-optimizer",
+                        path: "/experience-cloud-extensions/adobe-journey-optimizer",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-journey-optimizer"
+                                path: "/experience-cloud-extensions/adobe-journey-optimizer"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-journey-optimizer/api-reference"
+                                path: "/experience-cloud-extensions/adobe-journey-optimizer/api-reference"
                             },
                             {
                                 title: "Release notes",
-                                path: "documentation/adobe-journey-optimizer/release-notes"
+                                path: "/experience-cloud-extensions/adobe-journey-optimizer/release-notes"
                             }
                         ]
                     },
                     {
                         title: "Adobe Journey Optimizer Decisioning",
-                        path: "/documentation/adobe-journey-optimizer-decisioning",
+                        path: "/experience-cloud-extensions/adobe-journey-optimizer-decisioning",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-journey-optimizer-decisioning"
+                                path: "/experience-cloud-extensions/adobe-journey-optimizer-decisioning"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-journey-optimizer-decisioning/api-reference"
+                                path: "/experience-cloud-extensions/adobe-journey-optimizer-decisioning/api-reference"
                             },
                             {
                                 title: "Release notes",
-                                path: "documentation/adobe-journey-optimizer-decisioning/release-notes"
+                                path: "/experience-cloud-extensions/adobe-journey-optimizer-decisioning/release-notes"
                             }
                         ]
                     },
                     {
                         title: "Adobe Target",
-                        path: "/documentation/adobe-target",
+                        path: "/experience-cloud-extensions/adobe-target",
                         pages: [
                             {
                                 title: "Overview",
-                                path: "/documentation/adobe-target"
+                                path: "/experience-cloud-extensions/adobe-target"
                             },
                             {
                                 title: "API reference",
-                                path: "documentation/adobe-target/api-reference"
+                                path: "/experience-cloud-extensions/adobe-target/api-reference"
                             },
                             {
                                 title: "Event reference",
-                                path: "documentation/adobe-target/event-reference"
+                                path: "/experience-cloud-extensions/adobe-target/event-reference"
                             },
                             {
                                 title: "Migration",
-                                path: "documentation/adobe-target/migration"
+                                path: "/experience-cloud-extensions/adobe-target/migration"
                             },
                             {
                                 title: "Release notes",
-                                path: "documentation/adobe-target/release-notes"
+                                path: "/experience-cloud-extensions/adobe-target/release-notes"
                             },
                             {
                                 title: "Deprecated APIs",
-                                path: "documentation/adobe-target/deprecated-apis"
+                                path: "/experience-cloud-extensions/adobe-target/deprecated-apis"
                             }
                         ]
                     }

@@ -1,10 +1,14 @@
+<Hero slots="image, heading, text" variant="fullwidth"/> 
+
+![Creative Cloud banner](assets/experience-cloud-banner-3.png)
+
 # Mobile foundation extensions
 
 Mobile foundation extensions are the main extensions you can use when using the Mobile SDKs. These extensions are highly recommended to use when you are implementing your own mobile solution.
 
 ## Extensions
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="50%" />
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![CC icon](assets/core.svg)
 
@@ -14,7 +18,7 @@ Allows configuration of the Mobile SDK and provides access to default lifecycle 
 
 - [Learn more](mobile-core)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="50%" />
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![CC icon](assets/aep.svg)
 
@@ -24,7 +28,7 @@ The Adobe Experience Platform Edge Network mobile extension allows for sending X
 
 - [Learn more](edge-network)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="50%" />
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![CC icon](assets/aep.svg)
 
@@ -34,7 +38,7 @@ The Consent mobile extension enables consent preferences collection from your mo
 
 - [Learn more](consent-for-edge-network)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="50%" />
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![CC icon](assets/aep.svg)
 
@@ -44,7 +48,7 @@ The Identity mobile extension enables handling of user identity data from a mobi
 
 - [Learn more](identity-for-edge-network)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="50%" />
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![CC icon](assets/aep.svg)
 
@@ -54,7 +58,7 @@ The Lifecycle mobile extension enables application lifecycle data collection fro
 
 - [Learn more](lifecycle-for-edge-network)
 
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="50%" />
+<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
 
 ![CC icon](assets/assurance.svg)
 
